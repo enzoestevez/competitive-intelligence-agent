@@ -112,7 +112,7 @@ Cada semana el agente genera automáticamente:
 
 ## 👤 Autor
 
-**[Enzo Estevez]**
+**Enzo Estevez**
 Analista de datos | Business Analytics | Automatización con IA
 
 [www.linkedin.com/in/enzoestevez](#) · [https://enzoestevez.com/](#) · [mailto:enzoestevez6@gmail.com](#)

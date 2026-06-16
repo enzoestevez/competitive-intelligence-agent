@@ -2,7 +2,7 @@
 
 Agente de inteligencia competitiva automatizado que monitorea competidores semanalmente, extrae datos de productos vía API pública y genera reportes ejecutivos con IA.
 
-🔗 **[Ver dashboard en Google Sheets →](#)*https://docs.google.com/spreadsheets/d/1VqX24b8Qwg0BxrhfRLXSGlXmiH6_p8ERUC7X5Q_E8cI/edit?gid=1334961347#gid=1334961347* 
+🔗 **[Ver dashboard en Google Sheets →](#)*https://docs.google.com/spreadsheets/d/1VqX24b8Qwg0BxrhfRLXSGlXmiH6_p8ERUC7X5Q_E8cI/edit?usp=sharing* 
 
 ---
 
@@ -115,4 +115,4 @@ Cada semana el agente genera automáticamente:
 **[Enzo Estevez]**
 Analista de datos | Business Analytics | Automatización con IA
 
-[LinkedIn](#) · [https://enzoestevez.com/](#) · [Email](#)
+[www.linkedin.com/in/enzoestevez](#) · [https://enzoestevez.com/](#) · [mailto:enzoestevez6@gmail.com](#)

@@ -2,7 +2,7 @@
 
 Agente de inteligencia competitiva automatizado que monitorea competidores semanalmente, extrae datos de productos vía API pública y genera reportes ejecutivos con IA.
 
-🔗 **[Ver dashboard en Google Sheets →](#)*https://docs.google.com/spreadsheets/d/1VqX24b8Qwg0BxrhfRLXSGlXmiH6_p8ERUC7X5Q_E8cI/edit?usp=sharing* 
+🔗 **[[Ver dashboard en Google Sheets →](https://docs.google.com/spreadsheets/d/1VqX24b8Qwg0BxrhfRLXSGlXmiH6_p8ERUC7X5Q_E8cI/edit?usp=sharing)](#) 
 
 ---
 
